@@ -1,1 +1,11 @@
-/* Add CSS Styling */
+.avatar.proportioned {
+    height: auto;
+    width: 300px;
+}
+
+.avatar.distorted {
+height: 400px;
+width: 200px;
+}
+
+/* Do not forget that class names can be shared. Avoid using only part of the class name, unless you specifically want to style only a single element. */
