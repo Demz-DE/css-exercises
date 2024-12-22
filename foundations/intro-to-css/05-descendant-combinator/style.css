@@ -4,3 +4,5 @@
     font-size: 20px;
     text-align: center;
 }
+
+/* To avoid styling an entire container (including whitespaces), do not forget to specifically style the elements and not the individual containers, as it will look ass otherwise. */
