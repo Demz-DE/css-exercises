@@ -1,0 +1,14 @@
+.button {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', serif
+}
+
+#one {
+    background-color: black;
+    color: white;
+}
+#two {
+    background-color: yellow;
+}
+
+/* Keep in mind that we did not need IDs here, as you can define the general style for both classes at the same time, but still add individual styling as long as they were not defined for both already */
