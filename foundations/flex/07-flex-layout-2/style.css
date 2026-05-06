@@ -11,7 +11,8 @@ body {
   display: flex;
 }
 
-/* Remember specifity of .body. But why is  flex: 1 necessary? */
+/* Remember specifity of .body. But why is  flex: 1 necessary?
+flex: 1 ensures that the .body element takes up all available space in the column direction, pushing the footer to the bottom of the viewport. */
 
 .header {
   height: 72px;
