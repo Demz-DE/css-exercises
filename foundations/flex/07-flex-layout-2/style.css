@@ -11,7 +11,7 @@ body {
   display: flex;
 }
 
-/* Remember specifity of .body here. */
+/* Remember specifity of .body. But why is  flex: 1 necessary? */
 
 .header {
   height: 72px;
